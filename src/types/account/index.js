@@ -1,0 +1,3 @@
+export const GET_ACCOUNT_START = 'GET_ACCOUNT_START';
+export const GET_ACCOUNT = 'GET_ACCOUNT';
+export const GET_ACCOUNT_ERROR = 'GET_ACCOUNT_ERROR';
