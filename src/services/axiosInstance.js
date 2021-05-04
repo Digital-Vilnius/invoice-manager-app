@@ -7,7 +7,7 @@ import * as NavigationService from './navigation';
 import { NAVIGATORS } from 'constants';
 
 const axiosInstance = axios.create({
-  baseURL: 'https://27fa550c3471.ngrok.io/api',
+  baseURL: 'https://9f7490150fa1.ngrok.io/api',
 });
 
 axiosInstance.interceptors.request.use(
